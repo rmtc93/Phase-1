@@ -1,17 +1,34 @@
 .boite {
 	background-color: aquamarine;
-	border: 1px solid black;
+	background-image: url(/img/fortnite.png);
+	background-repeat: no-repeat;
+	border: 8px solid #da70d6;
+	border-style: double;
 	margin-bottom: 5px;
+	margin-left: 2%;
+	margin-top: 1%;
 	float: left;
-	height: 100px;
-	width: 100px;
+	height: 196px;
+	width: 350px;
+	transition: 0.5s;
 }
 .clear {
 	clear: both;
 }
 
 .content {
-	background-color: rosybrown;
-    width: 408px;
-	margin: auto;
+	width: 408px;
+}
+
+p {
+	font-size: 30px;
+	background-color: #66cdaa;
+}
+
+body {
+	background-color: #b0c4de;
+}
+
+.boite:hover {
+	margin-top: 10vh;
 }
