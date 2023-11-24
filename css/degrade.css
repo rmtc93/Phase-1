@@ -1,0 +1,8 @@
+.contenu {
+	background-image: linear-gradient(to right, #6150a1, #498e9a);
+	height: 45em;
+	width: 45em;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
