@@ -1,0 +1,70 @@
+section div {
+	float: left;
+}
+
+.forme1 {
+	height: 90px;
+	width: 90px;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	background-color: green;
+	border-color: black;
+	border-style: double;
+	margin-top: 1%;
+	text-align: center;
+	margin: 5px;
+	-moz-border-radius: 50%;
+	border: 1px black;
+}
+
+.forme3 {
+	height: 5em;
+	width: 5em;
+	border-radius: 50%;
+	background-color: #7fffd4;
+	border-color: black;
+	border-style: double;
+	margin-top: 1%;
+	margin: 5px;
+}
+
+.forme2 {
+	height: 5em;
+	width: 5em;
+	border-radius: 35%;
+	background-color: cyan;
+	border-color: black;
+	border-style: double;
+	margin-top: 1%;
+	margin: 5px;
+}
+
+.forme4 {
+	height: 5em;
+	width: 5em;
+	border-radius: 35%;
+	background-color: #e9967a;
+	border-color: black;
+	border-style: double;
+	margin-top: 1%;
+	margin: 5px;
+}
+
+.forme5 {
+	height: 5em;
+	width: 5em;
+	border-radius: 35%;
+	background-color: #ff0000;
+	border-color: black;
+	border-style: double;
+	margin-top: 1%;
+	margin: 5px;
+}
+
+.break {
+	clear: both;
+}
+.invisible {
+	height: 5em;
+	width: 5em;
+}
