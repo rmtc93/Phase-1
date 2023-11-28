@@ -1,0 +1,72 @@
+#content {
+	width: 1400px;
+	margin: auto;
+	background: #a1dbdb;
+	color: white;
+	height: 700px;
+}
+
+header {
+	background-color: #d2b48c;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+}
+
+nav {
+	background-color: #767676;
+	height: 29px;
+	text-align: center;
+}
+
+.Zone1 {
+	height: 250px;
+	width: 469px;
+	background-color: #ebc9aa;
+	margin: 10px;
+	text-align: center;
+	display: flex;
+	float: left;
+}
+
+.Zone2 {
+	height: 250px;
+	width: 469px;
+	background-color: #7092a3;
+	float: left;
+	text-align: center;
+	margin: 10px;
+}
+
+.pz1 {
+	height: 124px;
+	width: 233px;
+	border: 1px solid white;
+}
+
+.pz2 {
+	height: 124px;
+	width: 233px;
+	border: 1px solid white;
+}
+
+.pz3 {
+	height: 124px;
+	width: 233px;
+	border: 1px solid white;
+}
+
+.pz3 {
+	height: 124px;
+	width: 233px;
+}
+
+.pz4 {
+	height: 125px;
+	width: 235px;
+	border: 1px solid white;
+}
+section {
+	display: flex;
+	flex-wrap: wrap;
+}
