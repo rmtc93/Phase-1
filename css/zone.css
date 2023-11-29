@@ -19,54 +19,39 @@ nav {
 	text-align: center;
 }
 
-.Zone1 {
-	height: 250px;
-	width: 469px;
-	background-color: #ebc9aa;
-	margin: 10px;
-	text-align: center;
-	display: flex;
-	float: left;
+main {
+	width: 470px;
+	height: 246px;
 }
 
-.Zone2 {
-	height: 250px;
-	width: 469px;
-	background-color: #7092a3;
-	float: left;
-	text-align: center;
-	margin: 10px;
+.Zone1 {
+	border: 1px solid white;
+	background-color: #ebc9aa;
+	width: 470px;
+	height: 246px;
 }
 
 .pz1 {
-	height: 124px;
 	width: 233px;
+	height: 124px;
 	border: 1px solid white;
 }
 
 .pz2 {
-	height: 124px;
 	width: 233px;
+	height: 124px;
 	border: 1px solid white;
+	display: flex;
 }
 
 .pz3 {
-	height: 124px;
 	width: 233px;
+	height: 124px;
 	border: 1px solid white;
-}
-
-.pz3 {
-	height: 124px;
-	width: 233px;
 }
 
 .pz4 {
-	height: 125px;
-	width: 235px;
+	width: 233px;
+	height: 124px;
 	border: 1px solid white;
-}
-section {
-	display: flex;
-	flex-wrap: wrap;
 }

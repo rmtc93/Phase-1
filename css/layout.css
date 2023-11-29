@@ -1,0 +1,23 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	text-align: center;
+	margin: auto;
+}
+
+header {
+	background-color: #fecbc8;
+	width: 333px;
+	height: 41px;
+}
+nav {
+	background-color: #d3faff;
+	width: 333px;
+	height: 41px;
+}
+aside {
+	background-color: #cecece;
+	width: 115px;
+	height: 116px;
+}
