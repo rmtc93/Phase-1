@@ -1,0 +1,50 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+
+	align-items: center;
+}
+
+#content {
+	width: 1400px;
+	margin: auto;
+}
+
+main {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+section {
+	width: 500px;
+	height: 220px;
+	
+}
+
+.couleur1 {
+	background-color: #ff914d;
+}
+
+.couleur2 {
+	background-color: #03989f;
+}
+.couleur3 {
+	background-color: #ff5757;
+}
+
+@media only screen and (max-width: 1399px) {
+	#content {
+		width: 100%;
+        
+	}
+	section {
+		height: 100px;
+        
+	}
+	.couleur2 {
+		background-color: #039f2a;
+	}
+}
